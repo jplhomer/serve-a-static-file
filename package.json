@@ -1,0 +1,28 @@
+{
+  "name": "serve-a-static-file",
+  "version": "1.0.0",
+  "description": "Serves a static file from Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jplhomer/serve-a-static-file.git"
+  },
+  "keywords": [
+    "static",
+    "express",
+    "node"
+  ],
+  "author": "Josh Larson <jplhomer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jplhomer/serve-a-static-file/issues"
+  },
+  "homepage": "https://github.com/jplhomer/serve-a-static-file#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

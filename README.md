@@ -22,6 +22,15 @@ $ cd public && python -m SimpleHTTPServer 3000
 
 ## NodeJS
 
+```sh
+$ npm install
+$ npm start
+```
+
+Dependencies:
+
+- [NodeJS](https://nodejs.org/)
+
 ## MAMP
 
 1. Download and install [MAMP](https://www.mamp.info/en/)
