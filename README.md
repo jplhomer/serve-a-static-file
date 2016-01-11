@@ -41,7 +41,7 @@ Dependencies:
 
 1. Download and install [MAMP](https://www.mamp.info/en/)
 1. In Settings, change the Apache home directory to `/public` within this folder
-1. Visit http://localhost:8888
+1. Visit [http://localhost:8888](http://localhost:8888)
 
 ## Web Browser
 
